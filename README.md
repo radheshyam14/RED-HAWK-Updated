@@ -6,7 +6,7 @@
 #### By R3D#@0R_2H1N A.K.A Tuhinshubhra
 All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
-# Scans That You Can Perform Using RED HAWK :
+# Scans That You Can Perform Using RED HAWK :-
 + Basic Scan
 	- Site Title **NEW**
 	- IP Address
